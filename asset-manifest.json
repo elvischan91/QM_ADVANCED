@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://elvischan91.github.io/qm-app-build/static/css/main.81eb1f15.chunk.css",
+    "main.js": "https://elvischan91.github.io/qm-app-build/static/js/main.a9c87caa.chunk.js",
+    "main.js.map": "https://elvischan91.github.io/qm-app-build/static/js/main.a9c87caa.chunk.js.map",
+    "runtime-main.js": "https://elvischan91.github.io/qm-app-build/static/js/runtime-main.fca0481c.js",
+    "runtime-main.js.map": "https://elvischan91.github.io/qm-app-build/static/js/runtime-main.fca0481c.js.map",
+    "static/css/2.75bc9036.chunk.css": "https://elvischan91.github.io/qm-app-build/static/css/2.75bc9036.chunk.css",
+    "static/js/2.8f1133c8.chunk.js": "https://elvischan91.github.io/qm-app-build/static/js/2.8f1133c8.chunk.js",
+    "static/js/2.8f1133c8.chunk.js.map": "https://elvischan91.github.io/qm-app-build/static/js/2.8f1133c8.chunk.js.map",
+    "static/js/3.5c92300b.chunk.js": "https://elvischan91.github.io/qm-app-build/static/js/3.5c92300b.chunk.js",
+    "static/js/3.5c92300b.chunk.js.map": "https://elvischan91.github.io/qm-app-build/static/js/3.5c92300b.chunk.js.map",
+    "index.html": "https://elvischan91.github.io/qm-app-build/index.html",
+    "precache-manifest.52814e55b8c2e0b356e44f216fd41fb7.js": "https://elvischan91.github.io/qm-app-build/precache-manifest.52814e55b8c2e0b356e44f216fd41fb7.js",
+    "service-worker.js": "https://elvischan91.github.io/qm-app-build/service-worker.js",
+    "static/css/2.75bc9036.chunk.css.map": "https://elvischan91.github.io/qm-app-build/static/css/2.75bc9036.chunk.css.map",
+    "static/css/main.81eb1f15.chunk.css.map": "https://elvischan91.github.io/qm-app-build/static/css/main.81eb1f15.chunk.css.map",
+    "static/js/2.8f1133c8.chunk.js.LICENSE.txt": "https://elvischan91.github.io/qm-app-build/static/js/2.8f1133c8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://elvischan91.github.io/qm-app-build/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca0481c.js",
+    "static/css/2.75bc9036.chunk.css",
+    "static/js/2.8f1133c8.chunk.js",
+    "static/css/main.81eb1f15.chunk.css",
+    "static/js/main.a9c87caa.chunk.js"
+  ]
+}
