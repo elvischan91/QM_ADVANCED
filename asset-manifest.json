@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/QM/static/css/main.ea54aa57.chunk.css",
-    "main.js": "/QM/static/js/main.46ee2ebc.chunk.js",
-    "main.js.map": "/QM/static/js/main.46ee2ebc.chunk.js.map",
-    "runtime-main.js": "/QM/static/js/runtime-main.5f900977.js",
-    "runtime-main.js.map": "/QM/static/js/runtime-main.5f900977.js.map",
-    "static/css/2.75bc9036.chunk.css": "/QM/static/css/2.75bc9036.chunk.css",
-    "static/js/2.a67a2f14.chunk.js": "/QM/static/js/2.a67a2f14.chunk.js",
-    "static/js/2.a67a2f14.chunk.js.map": "/QM/static/js/2.a67a2f14.chunk.js.map",
-    "static/js/3.5c92300b.chunk.js": "/QM/static/js/3.5c92300b.chunk.js",
-    "static/js/3.5c92300b.chunk.js.map": "/QM/static/js/3.5c92300b.chunk.js.map",
-    "index.html": "/QM/index.html",
-    "precache-manifest.1303c769e3cd44c379a3be81fecba4e9.js": "/QM/precache-manifest.1303c769e3cd44c379a3be81fecba4e9.js",
-    "service-worker.js": "/QM/service-worker.js",
-    "static/css/2.75bc9036.chunk.css.map": "/QM/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.ea54aa57.chunk.css.map": "/QM/static/css/main.ea54aa57.chunk.css.map",
-    "static/js/2.a67a2f14.chunk.js.LICENSE.txt": "/QM/static/js/2.a67a2f14.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/QM/static/media/logo.06e73328.svg"
+    "main.css": "/qm-app-build/static/css/main.ea54aa57.chunk.css",
+    "main.js": "/qm-app-build/static/js/main.80d8e221.chunk.js",
+    "main.js.map": "/qm-app-build/static/js/main.80d8e221.chunk.js.map",
+    "runtime-main.js": "/qm-app-build/static/js/runtime-main.ead0b594.js",
+    "runtime-main.js.map": "/qm-app-build/static/js/runtime-main.ead0b594.js.map",
+    "static/css/2.75bc9036.chunk.css": "/qm-app-build/static/css/2.75bc9036.chunk.css",
+    "static/js/2.a67a2f14.chunk.js": "/qm-app-build/static/js/2.a67a2f14.chunk.js",
+    "static/js/2.a67a2f14.chunk.js.map": "/qm-app-build/static/js/2.a67a2f14.chunk.js.map",
+    "static/js/3.5c92300b.chunk.js": "/qm-app-build/static/js/3.5c92300b.chunk.js",
+    "static/js/3.5c92300b.chunk.js.map": "/qm-app-build/static/js/3.5c92300b.chunk.js.map",
+    "index.html": "/qm-app-build/index.html",
+    "precache-manifest.1904c24fb1c233320e1734d53c02ca88.js": "/qm-app-build/precache-manifest.1904c24fb1c233320e1734d53c02ca88.js",
+    "service-worker.js": "/qm-app-build/service-worker.js",
+    "static/css/2.75bc9036.chunk.css.map": "/qm-app-build/static/css/2.75bc9036.chunk.css.map",
+    "static/css/main.ea54aa57.chunk.css.map": "/qm-app-build/static/css/main.ea54aa57.chunk.css.map",
+    "static/js/2.a67a2f14.chunk.js.LICENSE.txt": "/qm-app-build/static/js/2.a67a2f14.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/qm-app-build/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f900977.js",
+    "static/js/runtime-main.ead0b594.js",
     "static/css/2.75bc9036.chunk.css",
     "static/js/2.a67a2f14.chunk.js",
     "static/css/main.ea54aa57.chunk.css",
-    "static/js/main.46ee2ebc.chunk.js"
+    "static/js/main.80d8e221.chunk.js"
   ]
 }
