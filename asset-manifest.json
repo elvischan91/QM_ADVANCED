@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.5810ff5a.chunk.css",
-    "main.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.7a5c129e.chunk.js",
-    "main.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.7a5c129e.chunk.js.map",
+    "main.css": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.3b103a21.chunk.css",
+    "main.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.3196c1c3.chunk.js",
+    "main.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.3196c1c3.chunk.js.map",
     "runtime-main.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/runtime-main.19ada8b6.js",
     "runtime-main.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/runtime-main.19ada8b6.js.map",
     "static/css/2.75bc9036.chunk.css": "https://www.elvischan91.com/QM_ADVANCED/static/css/2.75bc9036.chunk.css",
-    "static/js/2.a0edfe32.chunk.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.a0edfe32.chunk.js",
-    "static/js/2.a0edfe32.chunk.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.a0edfe32.chunk.js.map",
+    "static/js/2.65abefae.chunk.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.65abefae.chunk.js",
+    "static/js/2.65abefae.chunk.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.65abefae.chunk.js.map",
     "static/js/3.c3eefb9d.chunk.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js",
     "static/js/3.c3eefb9d.chunk.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js.map",
     "index.html": "https://www.elvischan91.com/QM_ADVANCED/index.html",
-    "precache-manifest.6ab252a1c996712fd9c7f5919ee55db5.js": "https://www.elvischan91.com/QM_ADVANCED/precache-manifest.6ab252a1c996712fd9c7f5919ee55db5.js",
+    "precache-manifest.ba0c6cb3b5e69624f9e015416caebc21.js": "https://www.elvischan91.com/QM_ADVANCED/precache-manifest.ba0c6cb3b5e69624f9e015416caebc21.js",
     "service-worker.js": "https://www.elvischan91.com/QM_ADVANCED/service-worker.js",
     "static/css/2.75bc9036.chunk.css.map": "https://www.elvischan91.com/QM_ADVANCED/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.5810ff5a.chunk.css.map": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.5810ff5a.chunk.css.map",
-    "static/js/2.a0edfe32.chunk.js.LICENSE.txt": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.a0edfe32.chunk.js.LICENSE.txt",
+    "static/css/main.3b103a21.chunk.css.map": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.3b103a21.chunk.css.map",
+    "static/js/2.65abefae.chunk.js.LICENSE.txt": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.65abefae.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "https://www.elvischan91.com/QM_ADVANCED/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.19ada8b6.js",
     "static/css/2.75bc9036.chunk.css",
-    "static/js/2.a0edfe32.chunk.js",
-    "static/css/main.5810ff5a.chunk.css",
-    "static/js/main.7a5c129e.chunk.js"
+    "static/js/2.65abefae.chunk.js",
+    "static/css/main.3b103a21.chunk.css",
+    "static/js/main.3196c1c3.chunk.js"
   ]
 }
