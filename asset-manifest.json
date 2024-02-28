@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.f95f82db.chunk.css",
-    "main.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.48afffb3.chunk.js",
-    "main.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/main.48afffb3.chunk.js.map",
-    "runtime-main.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/runtime-main.19ada8b6.js",
-    "runtime-main.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/runtime-main.19ada8b6.js.map",
-    "static/css/2.75bc9036.chunk.css": "https://www.elvischan91.com/QM_ADVANCED/static/css/2.75bc9036.chunk.css",
-    "static/js/2.5c405132.chunk.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.5c405132.chunk.js",
-    "static/js/2.5c405132.chunk.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.5c405132.chunk.js.map",
-    "static/js/3.c3eefb9d.chunk.js": "https://www.elvischan91.com/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js",
-    "static/js/3.c3eefb9d.chunk.js.map": "https://www.elvischan91.com/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js.map",
-    "index.html": "https://www.elvischan91.com/QM_ADVANCED/index.html",
-    "precache-manifest.95fe4ab57f7f7b56fc3d4e0bc3f7e1ea.js": "https://www.elvischan91.com/QM_ADVANCED/precache-manifest.95fe4ab57f7f7b56fc3d4e0bc3f7e1ea.js",
-    "service-worker.js": "https://www.elvischan91.com/QM_ADVANCED/service-worker.js",
-    "static/css/2.75bc9036.chunk.css.map": "https://www.elvischan91.com/QM_ADVANCED/static/css/2.75bc9036.chunk.css.map",
-    "static/css/main.f95f82db.chunk.css.map": "https://www.elvischan91.com/QM_ADVANCED/static/css/main.f95f82db.chunk.css.map",
-    "static/js/2.5c405132.chunk.js.LICENSE.txt": "https://www.elvischan91.com/QM_ADVANCED/static/js/2.5c405132.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "https://www.elvischan91.com/QM_ADVANCED/static/media/logo.06e73328.svg"
+    "main.css": "/QM_ADVANCED/static/css/main.24673dae.chunk.css",
+    "main.js": "/QM_ADVANCED/static/js/main.493b2626.chunk.js",
+    "main.js.map": "/QM_ADVANCED/static/js/main.493b2626.chunk.js.map",
+    "runtime-main.js": "/QM_ADVANCED/static/js/runtime-main.82ea9d77.js",
+    "runtime-main.js.map": "/QM_ADVANCED/static/js/runtime-main.82ea9d77.js.map",
+    "static/css/2.75bc9036.chunk.css": "/QM_ADVANCED/static/css/2.75bc9036.chunk.css",
+    "static/js/2.a0edfe32.chunk.js": "/QM_ADVANCED/static/js/2.a0edfe32.chunk.js",
+    "static/js/2.a0edfe32.chunk.js.map": "/QM_ADVANCED/static/js/2.a0edfe32.chunk.js.map",
+    "static/js/3.c3eefb9d.chunk.js": "/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js",
+    "static/js/3.c3eefb9d.chunk.js.map": "/QM_ADVANCED/static/js/3.c3eefb9d.chunk.js.map",
+    "index.html": "/QM_ADVANCED/index.html",
+    "precache-manifest.ab0e0f9de30b120c8e08406327e5660a.js": "/QM_ADVANCED/precache-manifest.ab0e0f9de30b120c8e08406327e5660a.js",
+    "service-worker.js": "/QM_ADVANCED/service-worker.js",
+    "static/css/2.75bc9036.chunk.css.map": "/QM_ADVANCED/static/css/2.75bc9036.chunk.css.map",
+    "static/css/main.24673dae.chunk.css.map": "/QM_ADVANCED/static/css/main.24673dae.chunk.css.map",
+    "static/js/2.a0edfe32.chunk.js.LICENSE.txt": "/QM_ADVANCED/static/js/2.a0edfe32.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/QM_ADVANCED/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ada8b6.js",
+    "static/js/runtime-main.82ea9d77.js",
     "static/css/2.75bc9036.chunk.css",
-    "static/js/2.5c405132.chunk.js",
-    "static/css/main.f95f82db.chunk.css",
-    "static/js/main.48afffb3.chunk.js"
+    "static/js/2.a0edfe32.chunk.js",
+    "static/css/main.24673dae.chunk.css",
+    "static/js/main.493b2626.chunk.js"
   ]
 }
